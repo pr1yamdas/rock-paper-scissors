@@ -1,0 +1,58 @@
+body {
+    background-color: rgb(22, 22, 23);
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.heading {
+    font-size: 30px;
+    font-weight: bold;
+    margin: 30px 20px;
+}
+
+.move-icon {
+    height: 100px;
+}
+
+.edit-button {
+    background-color: transparent;
+    border: 1px ;
+    padding: px;
+    border-radius: 60px;
+    margin: 40px;
+    cursor: pointer;
+}
+
+.result {
+    font-size: 30px;
+    font-weight: 700;
+    margin: 10px 20px;
+}
+
+.demo {
+    height: 100px;
+    margin: 0px 10px;
+}
+
+.moves {
+    font-size: 25px;
+    font-weight: 600;
+    margin: 50px 20px;
+}
+
+.js-score {
+    font-size: 23px;
+    font-weight: 600;
+    margin: 50px 20px;
+}
+
+.res {
+    border-radius: none;
+    background-color: white;
+    padding: 8px 15px;
+    font-weight: 550;
+    margin: 0px 20px;
+    font-size: 20px;
+    border-radius: 20px;
+    cursor: pointer;
+}
